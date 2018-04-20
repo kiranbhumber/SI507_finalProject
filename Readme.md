@@ -32,12 +32,13 @@ You will need to create an account at <https://plot.ly/> You must verify your ac
 
 
 3. The main program is called 'final_proj7.py' When this is run, it will load and create the database from the RA.json file (This takes awhile.. approx 4 mins). You will then be prompted to enter a command, or to select 'help' which will give you four commands to choose from that contain different visualizations of the data that is being presented. These are as follows:
-1. First 50 Artists in RA and How Many Fan 'Likes' They Have (Press '1')
 
-2. First 50 Artists in RA and The Number of Gigs They Have Listed (Press '2')
+First 50 Artists in RA and How Many Fan 'Likes' They Have (Press '1')
 
-3. Percentage of Countries Making up RA Fan's Likes (Press '3')
+First 50 Artists in RA and The Number of Gigs They Have Listed (Press '2')
 
-4. Number of Artists that Make Up Each Country (Press '4')
+Percentage of Countries Making up RA Fan's Likes (Press '3')
 
- To exit the program, simply type exit.
+Number of Artists that Make Up Each Country (Press '4')
+
+To exit the program, simply type exit.
