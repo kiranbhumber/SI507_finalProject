@@ -4,7 +4,7 @@
 
 #### CODE STRUCTURE ####
 
-This project crawls and scrapes the first top 100 Arists in Resident Advisor <https://www.residentadvisor.net/>.
+This project crawls and scrapes the first top 100 Artists in Resident Advisor <https://www.residentadvisor.net/>.
 
 It first does this by extracting all of the links to the artist in the 1000 DJS page here:
 <https://www.residentadvisor.net/dj.aspx>
@@ -30,4 +30,14 @@ You will need to create an account at <https://plot.ly/> You must verify your ac
 
 2. install all of the requirements listed in the requirements.txt file
 
-3. The main program is called 'final_proj7.py' When this is run, you will be prompted to enter a command, or to select 'help' which will give you four commands that contain different visualizations of data that is proccessed through the artist.db database. To exit the program, simply type exit.
+
+3. The main program is called 'final_proj7.py' When this is run, it will load and create the database from the RA.json file (This takes awhile.. approx 4 mins). You will then be prompted to enter a command, or to select 'help' which will give you four commands to choose from that contain different visualizations of the data that is being presented. These are as follows:
+1. First 50 Artists in RA and How Many Fan 'Likes' They Have (Press '1')
+
+2. First 50 Artists in RA and The Number of Gigs They Have Listed (Press '2')
+
+3. Percentage of Countries Making up RA Fan's Likes (Press '3')
+
+4. Number of Artists that Make Up Each Country (Press '4')
+
+ To exit the program, simply type exit.
