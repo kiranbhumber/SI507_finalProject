@@ -30,4 +30,4 @@ You will need to create an account at <https://plot.ly/> You must verify your ac
 
 2. install all of the requirements listed in the requirements.txt file
 
-3. The main program is called 'final_proj5.py' When this is run, you will be prompted to enter a command, or to select 'help' which will give you four commands that contain different visualizations of data that is proccessed through the artist.db database. To exit the program, simply type exit.
+3. The main program is called 'final_proj7.py' When this is run, you will be prompted to enter a command, or to select 'help' which will give you four commands that contain different visualizations of data that is proccessed through the artist.db database. To exit the program, simply type exit.
