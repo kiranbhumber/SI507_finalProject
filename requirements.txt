@@ -23,7 +23,7 @@ pickleshare==0.7.4
 plotly==2.5.1
 prompt-toolkit==1.0.14
 ptyprocess==0.5.2
-Pygments==2.2.0
+Pygments==2.7.4
 pylint==1.7.2
 PySocks==1.6.8
 pytz==2018.4
